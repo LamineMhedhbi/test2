@@ -12,8 +12,7 @@
     "category": "Uncategorized",
     "version": "0.1",
     "depends": ["base", "contacts"],
-    "data": [
-        "security/ir.model.access.csv",
+    "data": [        
         "views/work_place.xml",
         "views/res_partner.xml",
         "views/medical_speciality.xml",
